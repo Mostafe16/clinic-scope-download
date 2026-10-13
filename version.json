@@ -1,3 +1,4 @@
-{"version": 20, "versionCode": 19, "commit": "e15f867", "date": "2026-10-10",
+{"version": 23, "versionCode": 22, "commit": "d90e831", "date": "2026-10-13",
  "windows": "https://raw.githubusercontent.com/Mostafe16/clinic-scope-download/main/ClinicScope-Windows.zip",
- "url": "https://raw.githubusercontent.com/Mostafe16/clinic-scope-download/main/ClinicScope.apk"}
+ "url": "https://raw.githubusercontent.com/Mostafe16/clinic-scope-download/main/ClinicScope.apk",
+ "mac": 3, "macUrl": "https://raw.githubusercontent.com/Mostafe16/clinic-scope-download/main/ClinicScope-Mac.zip"}
